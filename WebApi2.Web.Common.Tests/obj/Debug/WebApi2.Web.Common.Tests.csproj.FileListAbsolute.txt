@@ -1,0 +1,5 @@
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Common.Tests\bin\Debug\WebApi2.Web.Common.Tests.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Common.Tests\bin\Debug\WebApi2.Web.Common.Tests.pdb
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Common.Tests\obj\Debug\WebApi2.Web.Common.Tests.csprojResolveAssemblyReference.cache
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Common.Tests\obj\Debug\WebApi2.Web.Common.Tests.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Common.Tests\obj\Debug\WebApi2.Web.Common.Tests.pdb

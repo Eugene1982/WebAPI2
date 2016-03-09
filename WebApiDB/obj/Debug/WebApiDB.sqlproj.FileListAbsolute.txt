@@ -1,0 +1,7 @@
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\bin\Debug\WebApiDB.dacpac
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\Model.xml
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\refactor.xml
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\postdeploy.sql
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\predeploy.sql
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\WebApiDB.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\WebApiDB.pdb

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="a2fab41a-8f9b-46cb-b3c0-5dd7c528125b" ChangeDateTime="03/01/2016 13:44:25">
+    <Property Name="ElementName" Value="[dbo].[Item].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Item]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ItemId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="369af693-8345-4359-a835-3c593e13ed20" ChangeDateTime="03/01/2016 14:40:31">
+    <Property Name="ElementName" Value="[dbo].[Order].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Order]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="OrderId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="13026a58-5c5d-44c7-a541-7c2ab1f8249d" ChangeDateTime="03/01/2016 14:43:27">
+    <Property Name="ElementName" Value="[dbo].[Order].[t]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Order]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ts" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0ed2db55-1bfb-4716-a8fc-a10e3bc26f2c" ChangeDateTime="03/01/2016 14:44:30">
+    <Property Name="ElementName" Value="[dbo].[OrderItem].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[OrderItem]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="OrderId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="90c2bfdf-1983-4fbd-ae8a-80ba2ee8b8b1" ChangeDateTime="03/01/2016 14:45:53">
+    <Property Name="ElementName" Value="[dbo].[FK_OrderItem_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[OrderItem]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_OrderItem_ToOrder]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2d71bfd7-4a1f-4f97-b316-73e787abd225" ChangeDateTime="03/01/2016 14:46:50">
+    <Property Name="ElementName" Value="[dbo].[OrderItem].[TaskId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[OrderItem]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ItemId" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e6623b7d-aed0-4cc7-a631-c54ea4878470" ChangeDateTime="03/01/2016 14:50:18">
+    <Property Name="ElementName" Value="[dbo].[Order].[SelesteItemId]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Order]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SelectedItemId" />
+  </Operation>
+</Operations>

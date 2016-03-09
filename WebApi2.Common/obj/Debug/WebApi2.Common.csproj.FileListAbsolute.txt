@@ -1,0 +1,7 @@
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\bin\Debug\WebApi2.Common.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\bin\Debug\WebApi2.Common.pdb
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\bin\Debug\log4net.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\bin\Debug\log4net.xml
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\obj\Debug\WebApi2.Common.csprojResolveAssemblyReference.cache
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\obj\Debug\WebApi2.Common.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\obj\Debug\WebApi2.Common.pdb

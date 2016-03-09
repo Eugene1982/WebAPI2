@@ -1,0 +1,5 @@
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api.Models\bin\Debug\WebApi2.Web.Api.Models.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api.Models\bin\Debug\WebApi2.Web.Api.Models.pdb
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api.Models\obj\Debug\WebApi2.Web.Api.Models.csprojResolveAssemblyReference.cache
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api.Models\obj\Debug\WebApi2.Web.Api.Models.dll
+c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api.Models\obj\Debug\WebApi2.Web.Api.Models.pdb
