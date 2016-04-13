@@ -41,3 +41,46 @@ C:\Users\Y.tsybulskyi\Documents\Visual Studio 2013\Projects\WebApplicationExampl
 C:\Users\Y.tsybulskyi\Documents\Visual Studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api\bin\NHibernate.xml
 C:\Users\Y.tsybulskyi\Documents\Visual Studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api\bin\System.Web.Http.Tracing.dll
 C:\Users\Y.tsybulskyi\Documents\Visual Studio 2013\Projects\WebApplicationExample\WebApi2.Web.Api\bin\System.Web.Http.Tracing.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Web.Api.dll.config
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Web.Api.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Web.Api.pdb
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\FluentNHibernate.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Iesi.Collections.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\log4net.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Newtonsoft.Json.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\NHibernate.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Ninject.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Ninject.Web.Common.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Ninject.Web.WebApi.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Net.Http.Formatting.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Web.Http.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Web.Http.Tracing.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Web.Http.WebHost.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebActivatorEx.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Common.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Data.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Data.Sql.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Web.Api.Models.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Web.Common.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Common.pdb
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Data.Sql.pdb
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Data.pdb
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Web.Api.Models.pdb
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\WebApi2.Web.Common.pdb
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\FluentNHibernate.pdb
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\FluentNHibernate.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Iesi.Collections.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\log4net.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\NHibernate.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Ninject.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Ninject.Web.Common.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Ninject.Web.WebApi.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Web.Http.Tracing.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\Newtonsoft.Json.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Net.Http.Formatting.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Web.Http.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\bin\System.Web.Http.WebHost.xml
+C:\Work\WebAPI2\WebApi2.Web.Api\obj\Debug\WebApi2.Web.Api.csprojResolveAssemblyReference.cache
+C:\Work\WebAPI2\WebApi2.Web.Api\obj\Debug\WebApi2.Web.Api.dll
+C:\Work\WebAPI2\WebApi2.Web.Api\obj\Debug\WebApi2.Web.Api.pdb

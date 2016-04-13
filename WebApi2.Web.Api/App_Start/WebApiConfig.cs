@@ -15,11 +15,11 @@ namespace WebApi2.Web.Api
             config.MapHttpAttributeRoutes();
 
 
-            config.Routes.MapHttpRoute(
-                name: "FindBynameRoute",
-                routeTemplate: "api/{controller}/{orderNum}",
-                defaults: new { orderNum = RouteParameter.Optional }
-            );
+            //config.Routes.MapHttpRoute(
+            //    name: "FindBynameRoute",
+            //    routeTemplate: "api/{controller}/{orderNum}",
+            //    defaults: new { orderNum = RouteParameter.Optional }
+            //);
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",
                 routeTemplate: "api/{controller}/{id}",

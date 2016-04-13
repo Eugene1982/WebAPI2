@@ -5,3 +5,10 @@ c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExampl
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\obj\Debug\WebApi2.Common.csprojResolveAssemblyReference.cache
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\obj\Debug\WebApi2.Common.dll
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Common\obj\Debug\WebApi2.Common.pdb
+C:\Work\WebAPI2\WebApi2.Common\bin\Debug\WebApi2.Common.dll
+C:\Work\WebAPI2\WebApi2.Common\bin\Debug\WebApi2.Common.pdb
+C:\Work\WebAPI2\WebApi2.Common\bin\Debug\log4net.dll
+C:\Work\WebAPI2\WebApi2.Common\bin\Debug\log4net.xml
+C:\Work\WebAPI2\WebApi2.Common\obj\Debug\WebApi2.Common.dll
+C:\Work\WebAPI2\WebApi2.Common\obj\Debug\WebApi2.Common.pdb
+C:\Work\WebAPI2\WebApi2.Common\obj\Debug\WebApi2.Common.csprojResolveAssemblyReference.cache

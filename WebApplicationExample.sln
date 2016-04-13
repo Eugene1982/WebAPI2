@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Common", "WebApi2.Common\WebApi2.Common.csproj", "{743158F0-EF35-44DB-A763-9594B42ED5AC}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Data.Tests", "WebApi2.Data.Tests\WebApi2.Data.Tests.csproj", "{5DEBA6C2-4FCA-49CE-8BA7-8B73AAAB0DC2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi2.Web.Common.Tests", "WebApi2.Web.Common.Tests\WebApi2.Web.Common.Tests.csproj", "{67085310-7B7A-4EC7-AD65-B4452E2CB607}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{268A7813-A155-4606-808E-C42CE017A27B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -60,6 +62,8 @@ Global
 		{6FC1DC2B-A8F2-4D35-80D1-37AD5B46F10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FC1DC2B-A8F2-4D35-80D1-37AD5B46F10A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EBE95867-7FD6-4B8A-BD06-65A2EA55370D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBE95867-7FD6-4B8A-BD06-65A2EA55370D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBE95867-7FD6-4B8A-BD06-65A2EA55370D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{EBE95867-7FD6-4B8A-BD06-65A2EA55370D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBE95867-7FD6-4B8A-BD06-65A2EA55370D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{EBE95867-7FD6-4B8A-BD06-65A2EA55370D}.Release|Any CPU.Deploy.0 = Release|Any CPU
@@ -78,5 +82,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6FC1DC2B-A8F2-4D35-80D1-37AD5B46F10A} = {268A7813-A155-4606-808E-C42CE017A27B}
+		{C9E77163-4A1C-4087-92C4-CDFB03D4990C} = {268A7813-A155-4606-808E-C42CE017A27B}
+		{5DEBA6C2-4FCA-49CE-8BA7-8B73AAAB0DC2} = {268A7813-A155-4606-808E-C42CE017A27B}
+		{67085310-7B7A-4EC7-AD65-B4452E2CB607} = {268A7813-A155-4606-808E-C42CE017A27B}
 	EndGlobalSection
 EndGlobal

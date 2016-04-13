@@ -5,3 +5,9 @@ c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExampl
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\predeploy.sql
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\WebApiDB.dll
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApiDB\obj\Debug\WebApiDB.pdb
+C:\Work\WebAPI2\WebApiDB\bin\Debug\WebApiDB.dacpac
+C:\Work\WebAPI2\WebApiDB\obj\Debug\WebApiDB.dll
+C:\Work\WebAPI2\WebApiDB\obj\Debug\WebApiDB.pdb
+C:\Work\WebAPI2\WebApiDB\bin\Debug\WebApiDB.dll
+C:\Work\WebAPI2\WebApiDB\bin\Debug\WebApiDB.pdb
+C:\Work\WebAPI2\WebApiDB\obj\Debug\WebApiDB.sqlprojResolveAssemblyReference.cache

@@ -3,3 +3,8 @@ c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExampl
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Data\obj\Debug\WebApi2.Data.csprojResolveAssemblyReference.cache
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Data\obj\Debug\WebApi2.Data.dll
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Data\obj\Debug\WebApi2.Data.pdb
+C:\Work\WebAPI2\WebApi2.Data\bin\Debug\WebApi2.Data.dll
+C:\Work\WebAPI2\WebApi2.Data\bin\Debug\WebApi2.Data.pdb
+C:\Work\WebAPI2\WebApi2.Data\obj\Debug\WebApi2.Data.dll
+C:\Work\WebAPI2\WebApi2.Data\obj\Debug\WebApi2.Data.pdb
+C:\Work\WebAPI2\WebApi2.Data\obj\Debug\WebApi2.Data.csprojResolveAssemblyReference.cache

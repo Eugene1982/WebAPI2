@@ -3,3 +3,9 @@ c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExampl
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Data.Tests\obj\Debug\WebApi2.Data.Tests.csprojResolveAssemblyReference.cache
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Data.Tests\obj\Debug\WebApi2.Data.Tests.dll
 c:\users\y.tsybulskyi\documents\visual studio 2013\Projects\WebApplicationExample\WebApi2.Data.Tests\obj\Debug\WebApi2.Data.Tests.pdb
+C:\Work\WebAPI2\WebApi2.Data.Tests\bin\Debug\WebApi2.Data.Tests.dll
+C:\Work\WebAPI2\WebApi2.Data.Tests\bin\Debug\WebApi2.Data.Tests.pdb
+C:\Work\WebAPI2\WebApi2.Data.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\WebAPI2\WebApi2.Data.Tests\obj\Debug\WebApi2.Data.Tests.csprojResolveAssemblyReference.cache
+C:\Work\WebAPI2\WebApi2.Data.Tests\obj\Debug\WebApi2.Data.Tests.dll
+C:\Work\WebAPI2\WebApi2.Data.Tests\obj\Debug\WebApi2.Data.Tests.pdb

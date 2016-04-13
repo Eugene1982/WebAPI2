@@ -8,7 +8,7 @@ namespace WebApi2.Data.Entities
 {
     public class Item : IVersionedEntity
     {
-        public int ItemId { get; set; }
+        public virtual int ItemId { get; set; }
         public virtual string Name { get; set; }
         public virtual double Price { get; set; }
         public virtual int Quantity { get; set; }
