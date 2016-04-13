@@ -10,7 +10,7 @@ namespace WebApi2.Data.Sql.Mapping
             Id(x => x.OrderId);
             Map(x => x.Date).Not.Nullable();
 
-            HasManyToMany(x => x.Items).Access.ReadOnlyPropertyThroughCamelCaseField(Prefix.Underscore)
+            HasManyToMany(x => x.Items).Access.ReadOnly()
                 .Table("OrderItem")
                 .ParentKeyColumn("OrderId")
                 .ChildKeyColumn("ItemId");
